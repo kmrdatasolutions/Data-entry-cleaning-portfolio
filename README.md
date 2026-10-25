@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/project-cover.png" alt="Data Entry and Data Cleaning Projects — Airbnb, Blinkit, and HealthFuel" width="100%">
+  <img src="project-cover.png" alt="Data Entry and Data Cleaning Projects — Airbnb, Blinkit, and HealthFuel" width="100%">
 </p>
 
 <h1 align="center">Data Entry, Data Cleaning & Excel Reporting Portfolio</h1>
