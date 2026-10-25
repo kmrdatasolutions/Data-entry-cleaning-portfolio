@@ -74,12 +74,9 @@ This repository showcases three practical data management projects involving dat
 ```text
 data-entry-cleaning-portfolio/
 ├── README.md
-├── images/
-│   └── project-cover.png
-├── Airbnb/
-│   └── AirBnB_Data.xlsx
-├── Blinkit/
-│   └── BlinkIt_Data_HomeKart_Supplies.xlsx
+├── project-cover.png
+├── AirBnB_Data.xlsx
+├── BlinkIt_Data_HomeKart_Supplies.xlsx
 └── HealthFuel/
     ├── HealthFuel_Order_Details_Q1_2026.pdf
     └── HealthFuel_Requirement.xlsx
