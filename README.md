@@ -8,6 +8,17 @@
   <b>Clean Data • Accurate Formatting • Business-Ready Reports</b>
 </p>
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Data%20Management-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skill-Data%20Entry-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Skill-Data%20Cleaning-0A7B83?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Reporting-Pivot%20Tables-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Conversion-PDF%20to%20Excel-red?style=for-the-badge" />
+</p>
+
+
 ## Overview
 
 This repository showcases three practical data management projects involving data entry, data cleaning, Excel formatting, reporting, and PDF-to-Excel conversion. The goal is to transform raw or messy source data into clean, structured, and useful reports.
@@ -15,6 +26,12 @@ This repository showcases three practical data management projects involving dat
 ## Projects
 
 ### 1. Airbnb Booking & Payout Summary
+
+<p>
+  <img src="https://img.shields.io/badge/Airbnb-Booking%20Analysis-FF5A5F?style=for-the-badge&logo=airbnb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-Payout%20Summary-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
 
 **Source:** Excel workbook
 
@@ -28,6 +45,12 @@ This repository showcases three practical data management projects involving dat
 
 ### 2. Blinkit Sales Reporting — HomeKart Supplies
 
+<p>
+  <img src="https://img.shields.io/badge/Blinkit-Sales%20Analysis-84C225?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Excel-Business%20Reports-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+
 **Source:** Excel workbook
 
 **Work completed / project scope:**
@@ -40,6 +63,12 @@ This repository showcases three practical data management projects involving dat
 **Workbook sheets:** `Clients Requirement`, `BlinkIt Data`, `Clean Data`, `Pivot Table`
 
 ### 3. HealthFuel India — PDF to Excel Conversion
+
+<p>
+  <img src="https://img.shields.io/badge/HealthFuel-Sales%20Analysis-228B22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PDF_to_Excel-Conversion-red?style=for-the-badge" />
+</p>
+
 
 **Source:** PDF order details and Excel requirements workbook
 
